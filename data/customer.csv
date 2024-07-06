@@ -1,0 +1,21 @@
+Customer_Name,Customer_ID,Customer_phonenumber,Customer_emailaddress,Customer_type,Purchase_Frequency,Order_types,Suborder_quantities,Customer_duration_in_months,Favourite_Product_type,Average_spending(per_product),Recent_growth,Fallout Rate,Loyalty
+Noah,123456,91234xxxxx,Noah@gm.com,New User,Monthly,Bulk,Greater than 15,2,Apparel and Accessories,5000,-20%,40%,High Risk
+Liam,123457,91234xxxxx,Liam@gm.com,Returning User,Forthnightly,Normal,Between 10 to 15,2,Electronics,2000,10%,0%,Loyal
+Elijah,123458,91234xxxxx,Elijah@gm.com,Old User,Forthnightly,Normal,Less than 5,18,Home and Furniture,8000,-5%,10%,Less Risky
+William,123459,91234xxxxx,William@gm.com,Old User,Weekly,Bulk,Between 5 to 10,24,Groceries and Food Products,10000,-15%,10%,Less Risky
+Mason,123460,91234xxxxx,Mason@gm.com,Old User,Daily,Normal,Less than 5,16,Apparel and Accessories,11500,20%,0%,Loyal
+James,123461,91234xxxxx,James@gm.com,Old User,Daily,Bulk,Between 10 to 15,10,Electronics,3600,-30%,40%,High Risk
+Benjamin,123462,91234xxxxx,Benjamin@gm.com,Old User,Monthly,Normal,Less than 5,15,Home and Furniture,5700,-30%,40%,High Risk
+Lucas,123463,91234xxxxx,Lucas@gm.com,Old User,Forthnightly,Normal,Between 5 to 10,22,Groceries and Food Products,17800,10%,0%,Loyal
+Ethan,123464,91234xxxxx,Ethan@gm.com,New User,Forthnightly,Bulk,Between 5 to 10,1,Apparel and Accessories,19900,-12%,10%,Less Risky
+Alexander,123465,91234xxxxx,Alexander@gm.com,Returning User,Weekly,Bulk,Less than 5,3,Electronics,2000,2%,0%,Loyal
+Matthew,123466,91234xxxxx,Matthew@gm.com,New User,Daily,Normal,Between 10 to 15,3,Home and Furniture,4100,-30%,40%,High Risk
+Olivia,123467,91234xxxxx,Olivia@gm.com,Returning User,Daily,Bulk,Less than 5,2,Groceries and Food Products,6200,-5%,10%,Less Risky
+Emma,123468,91234xxxxx,Emma@gm.com,Old User,Monthly,Normal,Less than 5,11,Apparel and Accessories,8300,-15%,10%,Less Risky
+Ava,123469,91234xxxxx,Ava@gm.com,Old User,Forthnightly,Bulk,Between 5 to 10,13,Electronics,30400,-30%,40%,High Risk
+Sophia,123470,91234xxxxx,Sophia@gm.com,Old User,Forthnightly,Normal,Greater than 15,17,Home and Furniture,32500,0%,10%,Less Risky
+Isabella,123471,91234xxxxx,Isabella@gm.com,Old User,Weekly,Bulk,Less than 5,18,Groceries and Food Products,34600,2%,0%,Loyal
+Charlotte,123472,91234xxxxx,Charlotte@gm.com,Old User,Daily,Normal,Less than 5,20,Apparel and Accessories,36700,10%,0%,Loyal
+Mia,123473,91234xxxxx,Mia@gm.com,Old User,Daily,Bulk,Between 5 to 10,22,Electronics,8800,-12%,10%,Less Risky
+Evelyn,123474,91234xxxxx,Evelyn@gm.com,New User,Monthly,Bulk,Less than 5,1,Home and Furniture,40900,20%,0%,Loyal
+Amelia,123475,91234xxxxx,Amelia@gm.com,Returning User,Forthnightly,Normal,Between 5 to 10,2,Groceries and Food Products,43000,-21%,40%,High Risk
